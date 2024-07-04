@@ -1,0 +1,13 @@
+numpy
+pandas
+matplotlib
+seaborn
+scipy
+scikit-learn
+statsmodels
+plotly
+bokeh
+plotnine
+altair
+jupyterlab
+
