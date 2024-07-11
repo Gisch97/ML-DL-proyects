@@ -1,0 +1,20 @@
+name: pytorch
+channels:
+  - pytorch
+  - defaults
+dependencies:
+  - python=3.11  # You can change this to your preferred Python version
+  - pytorch  # Adjust the version based on your requirements
+  - torchvision  # Version compatible with the chosen PyTorch version
+  - torchmetrics
+  - matplotlib
+  - numpy
+  - pandas  # For data manipulation
+  - seaborn  # Enhanced plotting library
+  - pillow
+  - scikit-learn
+  - jupyter
+  - ipython
+  - pip
+  - pip:
+    - tensorboard  # Optional: if you need TensorBoard support
