@@ -16,5 +16,7 @@ dependencies:
   - jupyter
   - ipython
   - pip
+  - transformers
+  - nltk
   - pip:
     - tensorboard  # Optional: if you need TensorBoard support
